@@ -5,4 +5,4 @@ It was a Scratch project, a coding language that I code sometimes but not often.
 It was a game that you move the cat around to eat apples. But, you are forced to use duplicate to make more.
 I thought, Why not make this better with cloning?
 So I did.
-Eventually someone gave me the idea to 
+Someone gave me the idea to make it Chick and Seed, and eventually it came to this video game. 
