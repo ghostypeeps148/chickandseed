@@ -16,4 +16,4 @@ Step 3: Go to the correct directory where you put your chickandseed-main folder:
 
 Step 4: Make the file executable: ```chmod a+x ./chickseed_osx```
 
-Step 5: Run the chickseed_osx: ```./chicknseed```
+Step 5: Run the chickseed_osx: ```./chickseed_osx```
