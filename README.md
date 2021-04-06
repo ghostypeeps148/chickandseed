@@ -23,5 +23,4 @@ For Windows users:
 
 Step 1: Download [chickandseed repository.](https://github.com/ghostypeeps148/chickandseed)
 
-Step 2: Double click the chicknseed_win application to launch it.
-
+Step 2: Double click chicknseed_win.exe to launch it.
