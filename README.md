@@ -8,6 +8,7 @@ So I did.
 Someone gave me the idea to make it Chick and Seed, and eventually it came to this video game. 
 
 For Mac users:
+
 Step 1: Download [chickandseed repository.](https://github.com/ghostypeeps148/chickandseed)
 
 Step 2: Go to the terminal.
@@ -17,3 +18,10 @@ Step 3: Go to the correct directory where you put your chickandseed-main folder:
 Step 4: Make the file executable: ```chmod a+x ./chickseed_osx```
 
 Step 5: Run the chickseed_osx: ```./chickseed_osx```
+
+For Windows users:
+
+Step 1: Download [chickandseed repository.](https://github.com/ghostypeeps148/chickandseed)
+
+Step 2: Double click the chicknseed_win application to launch it.
+
